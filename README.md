@@ -1,16 +1,30 @@
-## Hi there 👋
+# About Me
 
-<!--
-**sofiatravieso/sofiatravieso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a final-year Data Science and Engineering student interested in developing data-driven solutions and intelligent systems.
 
-Here are some ideas to get you started:
+# Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Computer Vision
+- Machine Learning
+- Deep Learning
+- Data Analysis
+- Data Visualization
+- Software Design
+
+# Education
+
+**University of Las Palmas de Gran Canaria (ULPGC)**  
+BSc in Data Science and Engineering  
+Final Year
+
+# Contact
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sofiatravieso/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:sofiatg.tg@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
