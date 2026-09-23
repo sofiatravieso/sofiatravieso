@@ -14,9 +14,7 @@ I am a final-year Data Science and Engineering student interested in developing 
 
 # Education
 
-**University of Las Palmas de Gran Canaria (ULPGC)**  
-BSc in Data Science and Engineering  
-Final Year
+**University of Las Palmas de Gran Canaria (ULPGC)**: BSc in Data Science and Engineering  
 
 # Contact
 
